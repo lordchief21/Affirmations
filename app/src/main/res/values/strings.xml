@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Puedo lograr mis objetivos.</string>
+    <string name="affirmation2"> Seré bueno en lo que hago.</string>
+    <string name="affirmation3">Seré exitoso en todo lo que haga.</string>
+    <string name="affirmation4">Seré un excelente programador.</string>
+    <string name="affirmation5">Es frustrante pero todo siempre tiene una respuesta.</string>
+    <string name="affirmation6">Creo en mi sabiduría y ver más allá de mis capacidades.</string>
+    <string name="affirmation7">Solo tú creas una mejor persona de ti.</string>
+    <string name="affirmation8">Aprendo del pasado, vivo el presente y estudio el futuro.</string>
+    <string name="affirmation9">Los errores y frustraciones siempre dejan un mensaje positivo.</string>
+    <string name="affirmation10">Aunque el camino sea difícil, supera los obstáculos.</string>
+
+
+
+</resources>
